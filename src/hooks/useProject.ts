@@ -36,9 +36,9 @@ const initialProjects: Project[] = [
   },
   {
     id: 7,
-    href: "https://photo.dhaf.in/",
+    href: "https://socialmedia.dhaf.in/",
     item: "Social Media Project",
-    online: false,
+    online: true,
   },
   {
     id: 1,
