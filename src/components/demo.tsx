@@ -13,7 +13,7 @@ const DemoVariant1: React.FC = () => {
 
       <div className="relative z-10 flex flex-col items-center justify-start h-full px-4 pt-32 text-center">
         <div className="mt-4 text-lg text-gray-300 md:text-xl max-w-lg">
-          Dhafin's page is under construction
+          Dhafin&rsquo;s page is under construction
           <ProjectList projects={projects} />
         </div>
       </div>
