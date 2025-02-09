@@ -43,7 +43,7 @@ const initialProjects: Project[] = [
   {
     id: 1,
     href: "https://midjourney.dhaf.in/",
-    item: "Midjourney's Journey",
+    item: "Midjourneys",
     online: true,
   },
 ];
